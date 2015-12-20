@@ -26,7 +26,6 @@
                 if (scope.jsPlumbDefaults === undefined) {
                     // https://jsplumbtoolkit.com/community/doc/defaults.html
                     scope.jsPlumbDefaults = {
-                        Anchors: ['Right', 'Left'],
                         Endpoint: ['Dot', {radius: 7}],
                         Connector: 'Flowchart'
                     };
